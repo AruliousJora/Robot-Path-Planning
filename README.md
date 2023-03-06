@@ -1,9 +1,5 @@
 # Robot-Path-Planning
 
-_**TABLE OF CONTENTS**_
-
-[[_TOC_]]
-
 # Team Name
 Potterheads
 
